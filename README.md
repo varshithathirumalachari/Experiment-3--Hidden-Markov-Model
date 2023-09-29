@@ -40,6 +40,7 @@ print("The most likely sequence of weather states is:",most_likely_sequence)
 
 ## Output:
 ![o](https://user-images.githubusercontent.com/75235293/231513534-a75f856d-da18-4d34-9735-60c984d5267c.png)
+![p](https://user-images.githubusercontent.com/75235293/231513647-9af46f51-37f9-4516-853a-60fe7eea3abe.png)
 ## Result:
 
 Thus, the Hidden Markov Model to identify the sequence of Hidden states  is executed successfully 
